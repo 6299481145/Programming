@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "java\\junit4jars\\junit4-4.8.2.jar"
+    ]
+}
